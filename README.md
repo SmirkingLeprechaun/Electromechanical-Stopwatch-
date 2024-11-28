@@ -1,4 +1,4 @@
 # SuperClock
 -- For Circuit Diagram Open CircuitDiagram/Test_one.kicad_sch --
 --------- OR(Noobs) -----------
--- Just open CDElectromechnicalStopwatch.pdf --
+-- Just open CircuitDiagramES.pdf --
